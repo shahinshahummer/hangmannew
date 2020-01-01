@@ -1,0 +1,19 @@
+Selecting words
+1. No punctuation X
+2. Atleast five letters long
+3. Shouldn't begin with capital letter
+4. Word should be completely lowercase
+5. The word shouldn't be repeated each time
+
+ no guess
+
+ first guess
+ single guess
+ wrong guess
+ two guess
+
+
+status:
+	masked word
+	guesses
+	turns left
